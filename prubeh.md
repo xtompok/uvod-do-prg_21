@@ -1,9 +1,13 @@
 # Co se dělalo
 
-## 1. cvičení (plán)
+## 1. cvičení
 * průběh cvičení
 * požadavky na zápočet
 * úvod do Pythonu
 * aritmetika, proměnné, základní typy, podmínka
 * výpočet obsahu a obvodu čtverce
 * výpočet kořenů kvadratické rovnice
+
+## 2. cvičení
+* převod stupňů na formát DMS
+* a další

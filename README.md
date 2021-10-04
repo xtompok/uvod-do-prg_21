@@ -33,3 +33,20 @@ Pokud si potřebujete jen něco menšího vyzkoušet, tak není potřeba instalo
 ### Komunikace
 Cvičení jsou (zatím) prezenční, konzultace jsou možné po cvičení nebo online, v takovém případě mi prosím napište [email](mailto:xtompok@gmail.com).   
 
+## Tipy a rady pro čitelný kód
+### Magické konstanty
+Pokud ve svém kódu používáte nějaké konstanty, ať už matematické (např. pi),
+fyzikální nebo jste si jen pevně zvolili délku seznamu či např. rozestup
+rovnoběžek, je vhodné tyto konstanty na začátku programu pojmenovat a pak
+používat toto pojmenování místo jejich číselné hodnoty. Je pak jasné, co je v
+daném místě sémanticky myšleno a pokud se nějakou z konstant později rozhodntete
+změnit, lze to udělat snadno na jednom dobře definovaném místě.
+
+Konstanty se obvykle pojmenovávají velkými písmeny, víceslovné se oddělují
+podtržítkem. Např. `LIST_LEN` pro délku seznamu (pokud v programu je více
+seznamů různých délek, je vhodné přidat do jména jednoznačný identifikátor, ke
+kterému seznamu se konstanta vztahuje), `F_G = 9.81` pro gravitační zrychlení na
+Zemi, `REC_DEPTH` pro hloubku rekurze. Pokud konstantu importujete z nějakého
+modulu, nechte ji takové jméno, jaké má v daném modulu (např. `from math import
+pi)`.
+

@@ -1,0 +1,5 @@
+print(1+2)
+print(1.2)
+print("Ahoj")
+print("2+2=",2+2)
+print("Čtverec o straně",479,"má obsah", 479**2, "a obvod",479*4)
