@@ -1,0 +1,5 @@
+print(type(12.9//7),12.9//7)
+input("Zadej číslo:")
+print(int("0xFF",base=16))
+print(1,2,3,4,5)
+print(1,2,3,4,5, sep="# #",end="#\n\n")
