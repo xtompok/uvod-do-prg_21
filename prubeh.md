@@ -8,6 +8,8 @@
 * výpočet obsahu a obvodu čtverce
 * výpočet kořenů kvadratické rovnice
 
-## 2. cvičení
+## 2. cvičení (plán)
+* vstup z klávesnice
 * převod stupňů na formát DMS
-* a další
+* funkce a jejich volání
+* želví grafika
