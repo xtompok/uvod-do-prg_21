@@ -14,10 +14,15 @@
 * funkce a jejich volání
 * želví grafika
 
-## 3. cvičení (plán, virtuálně)
+## 3. cvičení
 * želví grafika (pokračování)
+  * kreslení kytičky
+  * kreslení čtvercové a šestiúhelníkové sítě
 * cykly
-* a další
+  * hádej číslo (začátek)
 
 ## 4. cvičení (plán)
+* hádej číslo (dokončení)
+* náhodná čísla
+* Git
 * zadání 1. domácího úkolu
