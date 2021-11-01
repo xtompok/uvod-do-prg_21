@@ -21,8 +21,16 @@
 * cykly
   * hádej číslo (začátek)
 
-## 4. cvičení (plán)
+## 4. cvičení
 * hádej číslo (dokončení)
 * náhodná čísla
 * Git
 * zadání 1. domácího úkolu
+* úvod do formátovacích řetězců
+
+## 5. cvičení (plán)
+* formátovací řetězce - dokončení
+* další řetězcové funkce
+* převod stupňů na DMS podruhé
+* definice funkcí
+* výpočet obsahu čtverce a kruhu

@@ -1,6 +1,5 @@
 from random import randrange
 
-#for _ in range(100):
 print(randrange(10),end=" ")
 
 # Hadej cislo
@@ -14,8 +13,8 @@ tip = -1
 while tip != hledane:
 	tip = int(input("Zadej cislo: "))
 	if tip < hledane:
-		print("male")
+		print("Hledane cislo je vetsi")
 	elif tip > hledane:
-		print("velke")
-print("hotovo")
+		print("Hledane cislo je mensi")
+print("Gratulujeme k vyhre")
 
