@@ -28,9 +28,33 @@
 * zadání 1. domácího úkolu
 * úvod do formátovacích řetězců
 
-## 5. cvičení (plán)
+## 5. cvičení
 * formátovací řetězce - dokončení
 * další řetězcové funkce
 * převod stupňů na DMS podruhé
 * definice funkcí
 * výpočet obsahu čtverce a kruhu
+
+## 6. cvičení
+* výjimky
+* soubory
+* seznamy
+* funkce `read_int(prompt)`
+  * vypíše `<prompt>` (typicky "Zadej číslo")
+  * ptá se uživatele tak dlouho, dokud nezadá int
+  * ten následně vrátí
+
+## 7. cvičení (plán)
+* hádej město
+* vlastní moduly
+* práce s CSV
+* zadání 2. domácího úkolu
+
+## 8. cvičení (plán)
+* slovníky
+* JSON
+* stahování z webu
+
+## 9. cvičení (plán)
+* zadání 3. DÚ
+* rekurze
