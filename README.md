@@ -102,7 +102,7 @@ tedy máte jiného kamaráda, který se opět rámcově orientuje v tématu
 programu, ale navíc umí programovat. Zdroják vašeho programu ale nikdy
 neviděl. Tato část dokumentace by tedy měla obsahovat stručný popis
 běhu programu a stručný popis složitějších funkcí. Také by měla
-popisovat použité algoritmy. Doplňkem této dokumentace jsou docstringy
+popisovat použité algoritmy. Doplňkem této dokumentace jsou [docstringy](https://www.python.org/dev/peps/pep-0257/)
 u jednotlivých funkcí, které říkají vstupní a výstupní parametry každé
 funkce.
 
