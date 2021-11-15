@@ -44,15 +44,16 @@
   * ptá se uživatele tak dlouho, dokud nezadá int
   * ten následně vrátí
 
-## 7. cvičení (plán)
-* hádej město
-* vlastní moduly
+## 7. cvičení
 * práce s CSV
 * zadání 2. domácího úkolu
+* hádej město (úvod)
 
 ## 8. cvičení (plán)
+* hádej město (dokončení)
 * slovníky
 * JSON
+* vlastní moduly
 * stahování z webu
 
 ## 9. cvičení (plán)
