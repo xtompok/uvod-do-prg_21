@@ -10,12 +10,14 @@
 | František M.	| 7,5	|	|	|	|	|
 | Gabriela P.	| 8	|	|	|	|	|
 | Jiří M.	|	|	|	|	|	|
-| Josef V. 	|	|	|	|	|	|
-| Josef Z.	|	|	|	|	|	|
-| Lukáš N.	|	|	|	|	|	|
-| Miroslav H.	|	|	|	|	|	|
-| Mojmír P.	|	|	|	|	|	|
-| Petra K.	|	|	|	|	|	|
-| Václav T.	|	|	|	|	|	|
-| Vanda H.	|	|	|	|	|	|
-| Vít J.	|	|	|	|	|	|
+| Josef V. 	| 7	|	|	|	|	|
+| Josef Z.	| 6	|	|	|	|	|
+| Lukáš N.	| 7	|	|	|	|	|
+| Martina Ř.	|	|	|	|	|	|
+| Miroslav H.	| 8	|	|	|	|	|
+| Mojmír P.	| 7	|	|	|	|	|
+| Petra K.	| 8	|	|	|	|	|
+| Václav T.	| 7	|	|	|	|	|
+| Vanda H.	| 7	|	|	|	|	|
+| Vít J.	| 7	|	|	|	|	|
+| Vojtěch S.	| 5	|	|	|	|	|
