@@ -9,7 +9,7 @@
 | Eliška P.	| 7	|	|	|	|	|
 | František M.	| 7,5	|	|	|	|	|
 | Gabriela P.	| 8	|	|	|	|	|
-| Jiří M.	|	|	|	|	|	|
+| Jiří M.	| 8	|	|	|	|	|
 | Josef V. 	| 7	|	|	|	|	|
 | Josef Z.	| 6	|	|	|	|	|
 | Lukáš N.	| 7	|	|	|	|	|

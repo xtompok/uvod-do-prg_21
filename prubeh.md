@@ -49,13 +49,14 @@
 * zadání 2. domácího úkolu
 * hádej město (úvod)
 
-## 8. cvičení (plán)
+## 8. cvičení
 * hádej město (dokončení)
 * slovníky
+* frekvenční analýza (úvod)
+
+## 9. cvičení (plán)
 * JSON
 * vlastní moduly
 * stahování z webu
-
-## 9. cvičení (plán)
 * zadání 3. DÚ
 * rekurze
