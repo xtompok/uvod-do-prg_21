@@ -54,9 +54,13 @@
 * slovníky
 * frekvenční analýza (úvod)
 
-## 9. cvičení (plán)
+## 9. cvičení
+* frekvenční analýza (dokončení)
 * JSON
-* vlastní moduly
 * stahování z webu
-* zadání 3. DÚ
+
+## 10, cvičení (plán)
+* převod souřadnic mezi souřadnicovými systémy
+* vlastní moduly
 * rekurze
+* zadání 3. DÚ
