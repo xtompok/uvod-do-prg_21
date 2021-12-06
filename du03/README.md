@@ -1,4 +1,4 @@
-# Domácí úkol 2 - vzdálenost ke kontejnerům na tříděný odpad
+# Domácí úkol 3 - vzdálenost ke kontejnerům na tříděný odpad
 
 ## Motivace
 Chcete zhodnotit, jak jsou dostupné kontejnery na tříděný odpad v jednotlivých
