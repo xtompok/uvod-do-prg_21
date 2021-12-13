@@ -2,22 +2,22 @@
 
 |Jméno		| 1. DÚ | 2. DÚ | 3. DÚ | 4. DÚ | Celkem    |
 |---------------|-------|-------|-------|-------|-----------|
-| Adam B.	| 5,5	|	|	|	|	|
-| Anna K.	| 4	|	|	|	|	|
-| Daniela D.	| 8	|	|	|	|	|
-| David M.	| 7 	|	|	|	|	|
-| Eliška P.	| 7	|	|	|	|	|
-| František M.	| 7,5	|	|	|	|	|
-| Gabriela P.	| 8	|	|	|	|	|
-| Jiří M.	| 8	|	|	|	|	|
-| Josef V. 	| 7	|	|	|	|	|
-| Josef Z.	| 6	|	|	|	|	|
-| Lukáš N.	| 7	|	|	|	|	|
-| Martina Ř.	|	|	|	|	|	|
-| Miroslav H.	| 8	|	|	|	|	|
-| Mojmír P.	| 7	|	|	|	|	|
-| Petra K.	| 8	|	|	|	|	|
-| Václav T.	| 7	|	|	|	|	|
-| Vanda H.	| 7	|	|	|	|	|
-| Vít J.	| 7	|	|	|	|	|
-| Vojtěch S.	| 5	|	|	|	|	|
+| Adam B.	| 5,5	| >=5,5	|	|	|	|
+| Anna K.	| 4	| >=2	|	|	|	|
+| Daniela D.	| 8	| 0	|	|	|	|
+| David M.	| 7 	| >=6	|	|	|	|
+| Eliška P.	| 7	| >=5,5	|	|	|	|
+| František M.	| 7,5	| >=3,5	|	|	|	|
+| Gabriela P.	| 8	| >=5,5	|	|	|	|
+| Jiří M.	| 8	| >=4	|	|	|	|
+| Josef V. 	| 7	| >=5	|	|	|	|
+| Josef Z.	| 6	| >=6,5	|	|	|	|
+| Lukáš N.	| 7	| >=6,5	|	|	|	|
+| Martina Ř.	|	| 0	|	|	|	|
+| Miroslav H.	| 8	| >=5	|	|	|	|
+| Mojmír P.	| 7	| >=2,5	|	|	|	|
+| Petra K.	| 8	| >=6,5	|	|	|	|
+| Václav T.	| 7	| >=6	|	|	|	|
+| Vanda H.	| 7	| >=6	|	|	|	|
+| Vít J.	| 7	| >=3	|	|	|	|
+| Vojtěch S.	| 5	| >=2,5	|	|	|	|
