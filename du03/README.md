@@ -29,7 +29,7 @@ pouze obyvatelům domu. Soubor po stažení pojmenujte `kontejnery.geojson` a po
 tímto jménem ho také program bude načítat.
 
 ### Výstup
-Program vypíše, jaká je pro zvolenou množinu adres průměrná vzdálenost k
+Program vypíše, jaká je pro zvolenou množinu adres průměrná nejmenší vzdálenost k
 veřejnému kontejneru na tříděný odpad a ze které adresy je to k nejbližšímu
 veřejnému kontejneru nejdále a jak daleko (v metrech, zaokrouhleno na cele
 metry). Kontejnery, které jsou přístupné pouze obyvatelům domu nebudeme v
@@ -129,7 +129,7 @@ pushnutý na GitHub před deadlinem. Repozitář nemusí, ani by neměl, obsahov
 velká vstupní data.  Pokud budete potřebovat pomoct, pište mi.
 
 ### Medián (1 b)
-Kromě průměrné vzdálenosti ke kontejneru vypište i [medián](https://cs.wikipedia.org/wiki/Medi%C3%A1n) vzdálenosti ke kontejneru. 
+Kromě průměrné vzdálenosti ke kontejneru vypište i [medián](https://cs.wikipedia.org/wiki/Medi%C3%A1n) vzdálenosti k nejbližšímu kontejneru. 
 
 ### Přiřazení kontejnerů k adresám (3 b)
 Program vytvoří soubor `adresy_kontejnery.geojson` ve formátu GeoJSON, který
