@@ -59,8 +59,18 @@
 * JSON
 * stahování z webu
 
-## 10, cvičení (plán)
+## 10, cvičení
 * převod souřadnic mezi souřadnicovými systémy
 * vlastní moduly
 * rekurze
 * zadání 3. DÚ
+* kreslení Kochovy vločky (úvod)
+
+## 11. cvičení
+* kreslení Kochovy vločky (dokončení)
+* kreslení stromů rekurzí
+* půlení intervalu (úvod)
+
+## 12.cvičení (plán)
+* půlení intervalu (dokončení)
+* třídy
