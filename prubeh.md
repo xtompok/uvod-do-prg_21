@@ -59,7 +59,7 @@
 * JSON
 * stahování z webu
 
-## 10, cvičení
+## 10. cvičení
 * převod souřadnic mezi souřadnicovými systémy
 * vlastní moduly
 * rekurze
@@ -71,6 +71,10 @@
 * kreslení stromů rekurzí
 * půlení intervalu (úvod)
 
-## 12.cvičení (plán)
+## 12. cvičení
 * půlení intervalu (dokončení)
 * třídy
+
+## 13. cvičení
+* třídy - dědičnost, abstraktní třídy
+* co bude v Programování II
